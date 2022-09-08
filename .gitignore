@@ -138,3 +138,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/
+results/
+runs/
+analysis/
+CyCLIP/
+datasets/
